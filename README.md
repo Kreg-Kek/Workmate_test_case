@@ -10,3 +10,5 @@
 Запуск тестов:
 python -m pytest --cov=script --cov-report=term-missing
 Покрытие 86%
+
+Скриншоты с результатами работы скрипта и тестов находяться в папке orders
